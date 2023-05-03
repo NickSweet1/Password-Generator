@@ -81,6 +81,7 @@ if (userSymbol) {
 for (i = 0; i < +length; i++) {
   password += userChoices[Math.floor(Math.random() * (+length * booleanChoices))]; //multiply length of password by the number of variabels that the user wants to use
 }
+console.log(userChoices);
 return password;
 }
 
