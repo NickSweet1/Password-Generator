@@ -15,6 +15,9 @@ body,
 body {
   font-family: sans-serif;
   background-color: #f9fbfd;
+  background-image: url("https://media.tenor.com/EJ3LKODbTA4AAAAC/trippy-dots.gifhttps://tenor.com/view/trippy-dots-virtual-gif-14910974"); 
+  background-repeat: no-repeat;
+  background-size: cover;
 }
 
 .wrapper {
@@ -27,7 +30,10 @@ header {
   text-align: center;
   padding: 20px;
   padding-top: 0px;
-  color: hsl(206, 17%, 28%);
+  color: #39FF14;
+  -webkit-text-stroke: 1px;
+  -webkit-text-stroke-color: black;
+  text-shadow: 0 0 20px #39FF14;
 }
 
 .card {
@@ -40,6 +46,7 @@ header {
   margin: 0 auto;
   max-width: 800px;
   padding: 30px 40px;
+  background-color: black;
 }
 
 .card-header::after {
@@ -49,7 +56,9 @@ header {
   background: #e7e9eb;
   height: 2px;
 }
-
+.card-header {
+  color: #39FF14;
+}
 .card-body {
   min-height: 100px;
 }
@@ -74,7 +83,7 @@ header {
 
 .btn {
   border: none;
-  background-color: hsl(360, 91%, 36%);
+  background-color: #39FF14;
   border-radius: 25px;
   box-shadow: rgba(0, 0, 0, 0.1) 0px 1px 6px 0px rgba(0, 0, 0, 0.2) 0px 1px 1px
     0px;
