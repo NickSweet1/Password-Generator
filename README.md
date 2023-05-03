@@ -17,6 +17,7 @@ Nicholas Sweet<br>
 
 Assistance<br>
 Assistance was provided by Joshua Vaneps @ https://github.com/JoshuaVaneps<br>
+Inspiration for the CSS gif background code from Will Zealot @ https://github.com/WillZealot <br>
 Guidance and support was provided by Sara Neves Pereira via bootcampspot tutoring.<br>
 Ask BCS was also utilized as a resource.
 
