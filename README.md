@@ -1,7 +1,7 @@
 Password Generator <br>
 This password generator will take input from a user and output a truly randomized password based on the given criteria.  <br>
 
-Link to deployed application: https://nicksweet1.github.io/Password-Generator/ <br>
+Link to deployed application: https://nicksweet1.github.io/Styled-Password-Generator/ <br>
 
 ![Screenshot (12)](https://user-images.githubusercontent.com/111986248/236012624-8154a8f0-2293-4d26-bf7c-8e035961519f.png)
 
